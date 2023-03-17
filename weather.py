@@ -35,4 +35,4 @@ class Weather:
         """
         tm = str(weather_data['main']['temp'])
         fl = str(weather_data['main']['feels_like'])
-        return f"Temperature: {tm} °C, feels_like: {fl} °C"
+        return f"Temperature: {tm} °C, feels like: {fl} °C"

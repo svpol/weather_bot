@@ -7,8 +7,8 @@ from weather import Weather
 logging.basicConfig(level=logging.INFO)
 
 
-BOT_API_TOKEN = 'XXXXXXXXXX' # a valid telegram bot token provided by BotFather
-WEATHER_API_KEY = 'YYYYYYYYYYYYY' # a valid open weather map API token
+BOT_API_TOKEN = 'XXXXXXXXXXXXXXXXXXXX' # a valid telegram bot token provided by BotFather
+WEATHER_API_KEY = 'YYYYYYYYYYYYYYYYYYYYY' # a valid open weather map API token
 
 
 bot = Bot(token=BOT_API_TOKEN)
