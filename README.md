@@ -12,4 +12,4 @@ The weather data is taken via the OpenWeather API.
 
 This is how the Bot's work look like:
 
-<img src="weather_bot.jpg"  width="150" height="280">
+<img src="weather_bot.jpg"  width="300" height="550">
